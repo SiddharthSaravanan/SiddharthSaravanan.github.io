@@ -1,13 +1,13 @@
 ---
-title: "Paper Title Number 3"
+title: "ML/GAN Based Signal Processing for Remote Sensing and Cross Spectral Image Matching"
 collection: publications
 permalink: /publication/GAN_image_registration
-excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
-date: 2015-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper3.pdf'
-citation: 'Your Name, You. (2015). &quot;Paper Title Number 3.&quot; <i>Journal 1</i>. 1(3).'
+excerpt: 'This work is about using GAN and CNN to register cross-spectral remote sensing images.'
+date:
+venue: 
+paperurl:'https://www.researchgate.net/publication/351437390_MLGAN_Based_Signal_Processing_for_Remote_Sensing_and_Cross_Spectral_Image_Matching'
+citation:
 ---
 This paper is about using GAN and CNN to register cross-spectral remote sensing images.
 
-[Download paper here](http://academicpages.github.io/files/paper3.pdf)
+[Download paper here](http://academicpages.github.io/files/PaperDLforIM.pdf)
