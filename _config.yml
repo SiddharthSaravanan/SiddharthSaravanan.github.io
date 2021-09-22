@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Home"
+title                    : "My Home"
 title_separator          : "-"
 name                     : &name "Siddharth Saravanan"
 description              : &description "Computer Science Undergraduate at BITS Pilani, K.K Birla Goa Campus"
