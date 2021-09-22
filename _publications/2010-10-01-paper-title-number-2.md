@@ -1,6 +1,6 @@
 ---
 title: "(working title) HDSegmentation"
-collection: p
+collection: preprints
 permalink: /preprints/HDSegmentation
 excerpt: 'This work is about HD image segmentation and segmentation refinement.'
 date: 2010-10-01
