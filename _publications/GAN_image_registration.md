@@ -10,4 +10,4 @@ citation:
 ---
 This paper is about using GAN and CNN to register cross-spectral remote sensing images.
 
-[Download paper here](http://academicpages.github.io/files/PaperDLforIM.pdf)
+[Download paper here](http://SiddharthSaravanan.github.io/files/PaperDLforIM.pdf)
