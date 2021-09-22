@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Siddharth's Profile"
 title_separator          : ":"
-name                     : &name "Siddharth Saravanan..."
+name                     : &name "Siddharth Sarava"
 description              : &description "Computer Science Undergraduate at BITS Pilani, K.K Birla Goa Campus"
 url                      : "https://siddharthsaravanan.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
