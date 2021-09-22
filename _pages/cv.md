@@ -9,4 +9,4 @@ redirect_from:
 
 {% include base_path %}
 
-* Click [here] for my curriculum vitae.(/files/CV.pdf){:target="_blank"}.
+* Click [here](/files/CV.pdf){:target="_blank"} for my curriculum vitae.
