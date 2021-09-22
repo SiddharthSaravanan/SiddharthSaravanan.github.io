@@ -1,5 +1,5 @@
 ---
-title: "ML/GAN Based Signal Processing for Remote Sensing and Cross Spectral Image Matching"
+title: "Deep Learning Framework for Optical and Microwave Image Matching"
 collection: publications
 permalink: /publication/GAN_image_registration
 excerpt: 'This work is about using GAN and CNN to register cross-spectral remote sensing images.'
