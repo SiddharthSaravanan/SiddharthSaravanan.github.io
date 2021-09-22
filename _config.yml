@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Siddharth Saravanan"
+title                    : "Siddharth's Profile"
 title_separator          : "-"
 name                     : &name "Siddharth Saravanan"
 description              : &description "Computer Science Undergraduate at BITS Pilani, K.K Birla Goa Campus"
@@ -87,7 +87,7 @@ author:
   employer         :
   pubmed           : 
   googlescholar    : 
-  email            :
+  email            : "f20180265@goa.bits-pilani.ac.in"
   researchgate     : "https://www.researchgate.net/profile/Siddharth_Saravanan"
   uri              :
   bitbucket        :
@@ -102,7 +102,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
+  linkedin         : 
   orcid            : 
   pinterest        :
   soundcloud       :
