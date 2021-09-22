@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Siddharth's Pro"
+title                    : "Siddharth's Profile"
 title_separator          : "-"
 name                     : &name "Siddharth Saravanan"
 description              : &description "Computer Science Undergraduate at BITS Pilani, K.K Birla Goa Campus"
@@ -182,10 +182,10 @@ collections:
     output: true
     permalink: /:collection/:path/
   portfolio:
-    output: false
+    output: true
     permalink: /:collection/:path/
   talks:
-    output: false
+    output: true
     permalink: /:collection/:path/
 
 
