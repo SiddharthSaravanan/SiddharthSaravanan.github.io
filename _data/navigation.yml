@@ -1,7 +1,10 @@
 # main links links
 main:
   - title: "Preprints"
-    url: /preprints/   
+    url: /preprints/
+    
+  - title: "Projects"
+    url: /projects/
     
   - title: "CV"
     url: /cv/
