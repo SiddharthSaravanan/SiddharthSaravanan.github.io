@@ -10,5 +10,5 @@ redirect_from:
 {% include base_path %}
 
 {% for post in site.teaching reversed %}
-  {% include category-list.html %}
+  {% include archive-single-talk.html %}
 {% endfor %}
