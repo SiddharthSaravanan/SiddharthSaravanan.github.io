@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "My Projects"
+title: "My Projectsvv"
 permalink: /projects/
 author_profile: true
 redirect_from:
@@ -9,7 +9,6 @@ redirect_from:
 
 {% include base_path %}
 
-{% for post in site.projects reversed %}
+{% for post in site.teaching reversed %}
   {% include archive-single.html %}
 {% endfor %}
-
