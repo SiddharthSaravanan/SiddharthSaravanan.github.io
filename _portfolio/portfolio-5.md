@@ -7,7 +7,7 @@ excerpt: 'This work is about using a DL framework involving a GAN and a CNN to r
 
 {% include base_path %}
 
-[preprint link](../files/paper_8_.pdf)
+[preprint link](https://github.com/SiddharthSaravanan/SiddharthSaravanan.github.io/blob/master/files/Paper_8_.pdf)
 
 This paper is about.
 
