@@ -1,7 +1,7 @@
 ---
-title: "A Deep Learning Framework for Optical and Microwave Image Matching"
+title: "Deep Learning Framework for Optical and Microwave Image Matching"
 collection: project
-permalink: /projects/HDSegmentation
+permalink: /projects/DLforIM
 excerpt: 'This work is about using a DL framework involving a GAN and a CNN to register cross-spectral remote sensing images.'
 ---
 
