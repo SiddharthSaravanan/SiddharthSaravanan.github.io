@@ -44,7 +44,7 @@ Therfore, from a list of 30-dimensional vectors, we can get a list poses which w
 
 # Object Oriented design to manipulate the dancer
 
-Once we had created the 3dmodel, its armature and completed the rigging, We came up with an object oriented design to set the pose of the dancer based on the vector. The design had to be such that the dancer would not be able to assume any pose that is not anatomically possible. The challenge was that the posible configurations a particular bone can take depended on the configuration of its parent bones. For example the allowable configuration of the forearm and the constraints we have to set on the position of the palm depended on the configuration of the forearm.
+Once we had created the 3dmodel, its armature and completed the rigging, We came up with an object oriented design to set the pose of the dancer based on the vector. The design had to be such that the dancer would not be able to assume any pose that is not anatomically possible. The challenge was that the posible configurations a particular bone can take depended on the configuration of its parent bones. For example the allowable configuration of the forearm and the constraints we have to set on the position of the palm depended on the configuration of the forearm.<br />
 To deal with this we created a design that would alter the poses of the bones from the top to the bottom of the bone heirarchy; Starting from the pelvis bone to the finger and the feet bones. This process is depicted in the below diagram:
 
 ![image](https://github.com/SiddharthSaravanan/SiddharthSaravanan.github.io/blob/master/images/Main.png)
