@@ -49,7 +49,7 @@ To deal with this we created a design that would alter the poses of the bones fr
 
 ![image](../images/Main.png)
 
-The overall design is depicted in this UML :
+The overall design is depicted in this UML diagram (svg):
 
 ![image](../images/UML_diag_final.svg)
 
