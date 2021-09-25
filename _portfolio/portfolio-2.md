@@ -27,7 +27,7 @@ To this:
 
 ![Alt Text](https://media.giphy.com/media/mPgCNQh8b4qVl6EhKk/giphy.gif?cid=790b7611fc09703cd5ccb5306c7d03e060e8193d101e2c52&rid=giphy.gif&ct=g)
 
-#Codification of a Bharathnatyam Pose
+# Codification of a Bharathnatyam Pose
 
 The Codification of a pose in Bharathanatyam into a 30-dimensional vector was done by professor Sangeeta Jadhav, Goa University (2018). In her work, posititions of different parts of the body are represented by different integers within the 30-dimensional vector as shown below:
 
@@ -40,5 +40,6 @@ The Codification of a pose in Bharathanatyam into a 30-dimensional vector was do
 >Left Leg position : 26 to 30.<br />
 
 Therfore, from a list of 30-dimensional vectors, we can get a list poses which we can use as keyframes in creating the animation of the dancer.
+
 
 
