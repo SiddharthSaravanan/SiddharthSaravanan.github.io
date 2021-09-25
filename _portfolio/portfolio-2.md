@@ -2,7 +2,7 @@
 title: "Composition and Rendering of Bharatanatyam Performance in Augmented Reality"
 collection: projects
 permalink: /projects/BharatnatyamAR
-excerpt: 'This work is about using Blender\'s Python API to create dance animations from a list of vectors'
+excerpt: 'This work is about using Blenders Python API to create dance animations from a list of vectors'
 ---
 
 {% include base_path %}
