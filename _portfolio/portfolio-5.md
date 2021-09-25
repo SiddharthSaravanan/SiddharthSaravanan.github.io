@@ -7,7 +7,7 @@ excerpt: 'This work is about using a DL framework involving a GAN and a CNN to r
 
 {% include base_path %}
 
-[preprint link](https://github.com/SiddharthSaravanan/SiddharthSaravanan.github.io/blob/master/files/Paper_8_.pdf)
+[preprint link](https://www.researchgate.net/publication/351437390_Deep_Learning_Framework_for_Optical_and_Microwave_Image_Matching)
 
 This paper is about.
 
