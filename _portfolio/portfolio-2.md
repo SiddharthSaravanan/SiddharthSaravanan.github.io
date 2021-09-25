@@ -39,11 +39,6 @@ The Codification of a pose in Bharathanatyam into a 30-dimensional vector was do
 >Right Leg position : 21 to 25,<br />
 >Left Leg position : 26 to 30.<br />
 
+Therfore, from a list of 30-dimensional vectors, we can get a list poses which we can use as keyframes in creating the animation of the dancer.
 
 
-
-talk about thesis
-Explain the codification briefly
-
-explain the objective
-Talk about 
