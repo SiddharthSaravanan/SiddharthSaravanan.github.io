@@ -54,5 +54,4 @@ The overall design is depicted in this UML diagram (svg):
 ![image](../images/UML_diag_final.svg)
 
 
-
-
+For more details refer to the [report](https://www.researchgate.net/publication/351559537_Composition_and_Rendering_of_Bharatanatyam_Performance_in_Augmented_Reality)
