@@ -14,4 +14,12 @@ Below is thr pipeline of our model.
 
 ![image info](../images/pipeline.png)
 
-ADD IMAGES ETC HERE
+The first part of the pipeline...
+![image info](../images/ganexp.png)
+
+The second part of the pipeline...
+![image info](../images/3.png)
+
+We then remove some of the matches based on angles...
+
+All thee components together create...
