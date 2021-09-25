@@ -15,7 +15,7 @@ excerpt: 'This work is about using fewbb'
 
 The objective of this project was to write a program using [Blender's](https://www.blender.org/) [Python API](https://docs.blender.org/api/current/index.html) That is capable of taking a list of 30-dimenaional vectors and creating an animation of a dancer. In other words, going from this:
 ```
-0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0  
+**0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0**
 1 -1 2 0 2 -1 3 -1 -1 -1 3 0 1 1 2 1 1 1 0 2 2 0 0 0 -3 1 1 0 0 0
 2 1 2 0 2 -1 3 -1 1 1 3 0 1 1 2 1 0 0 0 0 0 1 0 0 0 1 1 0 0 0
 2 1 2 0 2 -1 3 -1 1 1 6 4 -2 0 2 0 0 0 0 0 0 1 0 0 0 1 1 0 0 0
@@ -27,6 +27,8 @@ The objective of this project was to write a program using [Blender's](https://w
 To this:
 
 ![Alt Text](https://media.giphy.com/media/mPgCNQh8b4qVl6EhKk/giphy.gif?cid=790b7611fc09703cd5ccb5306c7d03e060e8193d101e2c52&rid=giphy.gif&ct=g)
+
+
 
 
 talk about thesis
