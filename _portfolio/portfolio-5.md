@@ -9,6 +9,9 @@ excerpt: 'This work is about using a DL framework involving a GAN and a CNN to r
 
 [preprint link](https://www.researchgate.net/publication/351437390_Deep_Learning_Framework_for_Optical_and_Microwave_Image_Matching)
 
-This paper is about.
+In this work we create a Deep Learning model capable of registering optical and microwave remote sensing images.
+Below is thr pipeline of our model.
+
+![image info](../images/pipeline.png)
 
 ADD IMAGES ETC HERE
