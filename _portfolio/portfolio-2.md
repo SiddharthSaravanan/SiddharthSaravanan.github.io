@@ -1,5 +1,5 @@
 ---
-title: "Composition and Rendering of Bharatanatyam Performance"
+title: "Composition and Rendering of Bharatanatyam Performance in Augmented Reality"
 collection: projects
 permalink: /projects/BharatnatyamAR
 excerpt: 'This work is about using fewbb'
@@ -27,7 +27,8 @@ To this:
 
 ![Alt Text](https://media.giphy.com/media/mPgCNQh8b4qVl6EhKk/giphy.gif?cid=790b7611fc09703cd5ccb5306c7d03e060e8193d101e2c52&rid=giphy.gif&ct=g)
 
-# Codification of a Bharathnatyam Pose
+
+# Codification of a Bharathnatyam pose
 
 The Codification of a pose in Bharathanatyam into a 30-dimensional vector was done by professor Sangeeta Jadhav, Goa University (2018). In her work, posititions of different parts of the body are represented by different integers within the 30-dimensional vector as shown below:
 
@@ -41,5 +42,11 @@ The Codification of a pose in Bharathanatyam into a 30-dimensional vector was do
 
 Therfore, from a list of 30-dimensional vectors, we can get a list poses which we can use as keyframes in creating the animation of the dancer.
 
+# Object Oriented design to manipulate the dancer
+
+Once we had created the 3dmodel, its armature and completed the rigging, We came up with an object oriented design to set the pose of the dancer based on the vector. The design had to be such that the dancer would not be able to assume any pose that is not anatomically possible. The challenge was that the posible configurations a particular bone can take depended on the configuration of its parent bones. For example the allowable configuration of the forearm and the constraints we have to set on the position of the palm depended on the configuration of the forearm.
+To deal with this we created a design that would alter the poses of the bones from the top to the bottom of the bone heirarchy; Starting from the pelvis bone to the finger and the feet bones. This process is depicted in the below diagram:
+
+![image](Images/Main.png)
 
 
