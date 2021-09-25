@@ -32,12 +32,12 @@ To this:
 The Codification of a pose in Bharathanatyam into a 30-dimensional vector was done by professor Sangeeta Jadhav, Goa University (2018). In her work, posititions of different parts of the body are represented by different integers within the 30-dimensional vector as shown below:
 
 
->Position of Head : 1 and 2,
->Position of Right Hand : 3 to 10,
->Position of Left Hand : 11 to 18,
->Waist position : 19 and 20,
->Right Leg position : 21 to 25,
->Left Leg position : 26 to 30.
+>Position of Head : 1 and 2,<br />
+>Position of Right Hand : 3 to 10,<br />
+>Position of Left Hand : 11 to 18,<br />
+>Waist position : 19 and 20,<br />
+>Right Leg position : 21 to 25,<br />
+>Left Leg position : 26 to 30.<br />
 
 
 
