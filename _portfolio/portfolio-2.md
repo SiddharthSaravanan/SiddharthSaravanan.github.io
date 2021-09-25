@@ -49,6 +49,10 @@ To deal with this we created a design that would alter the poses of the bones fr
 
 ![image](https://github.com/SiddharthSaravanan/SiddharthSaravanan.github.io/blob/master/images/Main.png)
 
+The overall design is depicted in this UML diagram:
+
+![image](https://github.com/SiddharthSaravanan/SiddharthSaravanan.github.io/blob/master/images/UML_diag_final.png)
+
 
 
 
