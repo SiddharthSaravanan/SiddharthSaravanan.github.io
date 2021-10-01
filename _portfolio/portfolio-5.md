@@ -27,6 +27,27 @@ Next, we pass both the generated and input microwave images into the "Image Matc
 
 ![image info](../images/3.png)
 
-We then remove some of the matches based on angles...
+Each line going from one image to the other denotes a matching feature found in both the images.
+
+As a final step, we remove some of the matches based on angles.
+
+Once The CNN has performed the initial matching between the input microwave image and the generated microwave image, we attempt to identify and eliminate potential false
+matches using a method of finding angles and z-scores.
+As seen in Fig. 3, we draw line segments between the
+matched points of the two images to denote the matched
+features in the images. To identify whether a feature point
+in the reference image (which has been matched to another
+feature point in the secondary image) has been matched
+falsely or not, we consider the k-nearest neighbouring feature
+points of the point in consideration within the reference image
+(Fig. 4) and we calculate the angles of the lines formed by
+these k points and their corresponding matching points in the
+secondary image (Fig. 5). We then normalize these k angles
+to a normal distribution with $\mu$ = 0 and $\sigma$ = 1 using equation
+$\frac{X-$\mu$}{\sigma}$
+Finally, we perform the angle calculation for the point in
+consideration. If the angle of the point in consideration is not
+within the range of $\mu $, then we consider the point to
+be falsely matched.
 
 All thee components together create...
