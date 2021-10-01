@@ -9,7 +9,8 @@ excerpt: 'This work is about using a DL framework involving a GAN and a CNN to r
 
 [preprint link](https://www.researchgate.net/publication/351437390_Deep_Learning_Framework_for_Optical_and_Microwave_Image_Matching)
 
-In this work we create a Deep Learning model capable of registering optical and microwave remote sensing images of the same scene.<br\>
+In this work we create a Deep Learning model capable of registering optical and microwave remote sensing images of the same scene.
+
 Shown below is the pipeline of our model.
 
 ![image info](../images/pipeline.png)
@@ -29,20 +30,19 @@ Next, we pass both the generated and input microwave images into the "Image Matc
 
 Each line going from one image to the other denotes a matching feature found in both the images.
 
-As a final step, we remove some of the matches based on angles.
+As a final step, we remove some of the potentially inaccurate matches based on angles and z-scores. In the above image, the yellow line segments are matches that were found to be inaccurate based on this method.
 
 Once The CNN has performed the initial matching between the input microwave image and the generated microwave image, we attempt to identify and eliminate potential false
 matches using a method of finding angles and z-scores.
-As seen in Fig. 3, we draw line segments between the
+As seen in the above image, we draw line segments between the
 matched points of the two images to denote the matched
 features in the images. To identify whether a feature point
 in the reference image (which has been matched to another
 feature point in the secondary image) has been matched
 falsely or not, we consider the k-nearest neighbouring feature
-points of the point in consideration within the reference image
-(Fig. 4) and we calculate the angles of the lines formed by
+points of the point in consideration within the reference image and we calculate the angles of the lines formed by
 these k points and their corresponding matching points in the
-secondary image (Fig. 5). We then normalize these k angles
+secondary image . We then normalize these k angles
 to a normal distribution with $\mu$ = 0 and $\sigma$ = 1 using equation
 $\frac{X-\mu}{\sigma}$
 Finally, we perform the angle calculation for the point in
