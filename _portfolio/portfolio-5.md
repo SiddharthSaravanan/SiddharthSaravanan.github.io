@@ -44,10 +44,10 @@ points of the point in consideration within the reference image
 these k points and their corresponding matching points in the
 secondary image (Fig. 5). We then normalize these k angles
 to a normal distribution with $\mu$ = 0 and $\sigma$ = 1 using equation
-$\frac{X-$\mu$}{\sigma}$
+$\frac{X-\mu}{\sigma}$
 Finally, we perform the angle calculation for the point in
 consideration. If the angle of the point in consideration is not
-within the range of $\mu $, then we consider the point to
+within the range of $\mu \pm (1.5)\sigma $, then we consider the point to
 be falsely matched.
 
-All thee components together create...
+All these components together create an algorithm capable of accurately registering optical and microwave remote sensing images
