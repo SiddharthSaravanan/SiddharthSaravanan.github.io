@@ -50,4 +50,4 @@ consideration. If the angle of the point in consideration is not
 within the range of $\mu \pm (1.5)\sigma $, then we consider the point to
 be falsely matched.
 
-All these components together create an algorithm capable of accurately registering optical and microwave remote sensing images
+All these components together create an algorithm capable of accurately registering optical and microwave remote sensing images.
