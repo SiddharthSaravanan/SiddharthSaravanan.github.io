@@ -9,4 +9,4 @@ excerpt: 'This work is about using '
 
 [Github Code Repository link](https://github.com/SiddharthSaravanan/MLforSHM)
 <br />
-[Project Report]([Download report here](http://SiddharthSaravanan.github.io/files/MLforSHMreport.pdf)
+[Download Project Report](http://SiddharthSaravanan.github.io/files/MLforSHMreport.pdf)
