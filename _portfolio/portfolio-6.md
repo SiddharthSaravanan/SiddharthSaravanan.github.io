@@ -7,9 +7,9 @@ excerpt: 'This work is about using GAN and CNN to register cross-spectral remote
 
 {% include base_path %}
 
-[Github Code Repository link](https://github.com/SiddharthSaravanan/UHDImageSegmentation)
+[Github Code Repository link]()
 <br />
-[Arxiv preprint link](https://github.com/SiddharthSaravanan/UHDImageSegmentation)
+[preprint link]()
 
 This paper is about.
 
