@@ -24,5 +24,16 @@ This is achieved by using the random walker algorithm. We use the upsampled segm
 An example of this is shown below. Figure 1 shows a HD image that we want to perform image segmentation on. Figure 2 shows the upsampled output after passing the downsampled image through a deep learning model. Figure 3 shows the background and foreground seeds obtained after thinning.
 
 ![image](../images/f1.jpg)
+Figure 1.
+<br />
+<br />
 ![image](../images/f2.png)
+Figure 2.
+<br />
+<br />
 ![image](../images/f3.png)
+Figure 3.
+<br />
+<br />
+
+The gray regions on figure 3 represents the seed pixels for the backgroung, while the white pixels represent the seed pixels for the object/foreground.
