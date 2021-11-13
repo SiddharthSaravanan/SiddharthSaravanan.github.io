@@ -9,7 +9,7 @@ excerpt: 'This work is about using GAN and CNN to register cross-spectral remote
 
 [Github Code Repository link]()
 <br />
-[preprint link]()
+[arXiv preprint link]()
 
 Deep Learning models for semantic segmentation are trained on low-resolution images and fail to segment high-resolution images. Training deep learning models on high resolution images however, is problematic due to hardware limitations and the scarcity of high-resolution datasets. A common workaround is to downsample the HD image, pass it through a model and upsample the segmentation results back to the original dimensions using nearest neighbour upsampling. However, this method provides poor results because downsampling the image, causes object boundary details to be lost. 
 We find that while upscaling the segmentation estimates from low-resolution to high-resolution, the majority of incorrect estimates happen at the object boundaries.
@@ -36,4 +36,7 @@ Figure 3.
 <br />
 <br />
 
-The gray regions on figure 3 represents the seed pixels for the backgroung, while the white pixels represent the seed pixels for the object/foreground.
+The gray regions on figure 3 represents the seed pixels for the backgroung, while the white pixels represent the seed pixels for the object/foreground. The black pixels represent non-seed pixels which will be classified as either background or foregroung pixels through the random walker algorithm.
+<br />
+<br />
+For more details, refer to the [preprint]() on arXiv.
