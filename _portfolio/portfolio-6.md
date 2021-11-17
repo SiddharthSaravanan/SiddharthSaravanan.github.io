@@ -2,7 +2,7 @@
 title: "HD Image Segmentation"
 collection: project
 permalink: /projects/HDSegmentation
-excerpt: 'This work is about using GAN and CNN to register cross-spectral remote sensing images.'
+excerpt: 'This work is about using the Random walker algorithm to improve on image segmentations made on high-resolution images by Deep Learning models such as Deeplab and PSPNet.'
 ---
 
 {% include base_path %}
