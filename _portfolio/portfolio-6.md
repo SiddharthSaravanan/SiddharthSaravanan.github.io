@@ -7,10 +7,6 @@ excerpt: 'This work is about using the Random walker algorithm to improve image 
 
 {% include base_path %}
 
-[Github Code Repository link]()
-<br />
-[arXiv preprint link]()
-
 Deep Learning models for semantic segmentation are trained on low-resolution images and hence fail to segment high-resolution images. Training deep learning models on high-resolution images, however, is problematic due to hardware limitations and the scarcity of high-resolution datasets. A common workaround is to downsample the HD image, pass it through a model and upsample the segmentation results back to the original dimensions using nearest neighbour upsampling. However, this method provides poor results because downsampling the image, causes object boundary details to be lost. 
 We find that while upscaling the segmentation estimates from low-resolution to high-resolution, the majority of incorrect estimates occur near the object boundaries.
 <br />
@@ -39,4 +35,3 @@ Figure 3.
 The gray regions in figure 3 represent the seed pixels for the background, while the white pixels represent the seed pixels for the object/foreground. The black pixels represent non-seed pixels which will be classified as either background or foreground pixels through the random walker algorithm.
 <br />
 <br />
-For more details, refer to the [preprint]() on arXiv.
