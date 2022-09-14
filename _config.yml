@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "My Profile"
 title_separator          : "-"
 name                     : &name "Siddharth Saravanan"
-description              : &description "Computer Science Undergraduate at BITS Pilani, K.K Birla Goa Campus"
+description              : &description "Computer Science Graduate Student at UC San Diego"
 url                      : "https://siddharthsaravanan.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "SiddharthSaravanan/SiddharthSaravanan.github.io"
@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Siddharth Saravanan"
   avatar           : "white.jpg"
-  bio              : "Computer Science Undergraduate at BITS Pilani, K.K. Birla Goa Campus"
-  location         : "Goa, India"
+  bio              : "Computer Science Graduate Student at UC San Diego"
+  location         : "La Jolla, CA"
   employer         :
   pubmed           : 
   googlescholar    : 
-  email            : "f20180265@goa.bits-pilani.ac.in"
+  email            : "sisaravanan@ucsd.edu"
   researchgate     : "https://www.researchgate.net/profile/Siddharth_Saravanan"
   uri              :
   bitbucket        :
