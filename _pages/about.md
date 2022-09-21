@@ -8,4 +8,4 @@ redirect_from:
   - /about.html
 ---
 
-I am a first year computer science graduate student at UC San Diego. My research interest is visual computing, particularly computer graphics, computer vision and image processing.
+I am a first year computer science graduate student at UC San Diego. My interests include visual computing, particularly computer graphics, computer vision and image processing.
